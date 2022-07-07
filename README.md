@@ -1,6 +1,7 @@
 # Masters-Thesis---Heart-valve-prosthetics-polymer-based-
 
-# Project summary: Heart valve replacement by means of surgery, remains the most effective treatment of aortic
+# Project summary: 
+Heart valve replacement by means of surgery, remains the most effective treatment of aortic
 heart valve disease. Polymeric heart valve prostheses comprising of styrene-based thermoplastic
 block copolymers show great promise for use in cardiovascular applications. The process
 of injection moulding can lead to anisotropy in the microstructure of such polymers. This
@@ -15,9 +16,10 @@ and anisotropic mechanical properties. Such characteristics also influence the h
 properties of the heart valve prostheses.
 Furthermore, the anisotropy in microstructure of SEPS attained, post-injection moulding, was
 found to be adequately predicted by a polymer chain orientation model and a simple generalised
-Newtonian, power law constitutive relation with a power law exponent of 0.53. # 
+Newtonian, power law constitutive relation with a power law exponent of 0.53.
 
-# Details of data acquisition and analysis: The SAXS data relevant to the analysis of the microstructure of SEPS with a styrene weight
+# Details of data acquisition and analysis: 
+The SAXS data relevant to the analysis of the microstructure of SEPS with a styrene weight
 fraction of 0.22, was collected by the Structured Materials group, using the synchrotron beam
 line I22 [23]. The first experiment was a series of in-situ SAXS measurements during injection
 moulding of SEPS. The energy of the X-ray beam was 17 keV, and the beam covered an area
@@ -74,4 +76,4 @@ the maximum capacity of the Singular Value Decomposition implementation of the P
 SciPy library. This was preferred against Gaussian curve fitting algorithms. Polynomial
 regression was more sensitive in picking up any remaining intensity noise in the data.
 • In spite of these efforts, some of the data were obscured to such great extent that their
-recovery was not possible. #
+recovery was not possible. 
